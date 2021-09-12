@@ -1,0 +1,234 @@
+@media(min-width:0px) and (max-width:575px){
+    .navbar-toggler span i{
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        display: inline;
+        
+    }
+    .nav-item{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .banner_content{
+        margin:auto;
+        text-align: center;
+    }
+    .phone{
+        display: none;
+    }
+    .btn_download {
+
+        margin-bottom: 20px;
+        
+    }
+    .btn_view{
+        margin-bottom: 20px;
+        margin-right: 13px;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: #fff;
+    }
+    .beast{
+        padding: 0;
+    }
+    .beast h1 {
+        text-align: center;
+        
+    }
+    .beast h1::before {
+        left: 34%;
+    }
+    .beast h1::after{
+        right: 36%;
+    }
+    .beast h4{
+        text-align: center;
+    }
+    .easy h4{
+        text-align: center;
+    }
+    .easy h1{
+        text-align: center;
+    }
+    .easy h1::before{
+        left:41% 
+    }
+    .easy h1::after{
+        right:40%;
+    }
+    .btn_2{
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .btn_3{
+        margin-top: 20px;
+    }
+    .price_list_1{
+        margin-bottom: 50px;
+    }
+    .Price h1{
+        margin-top: 10px;
+    }
+    .Price h1::before{
+        left: 42%;
+        bottom: -17px;
+    }
+    .Price h1::after{
+        right: 42%;
+        bottom: -17px;
+    }
+    .Pricing p{
+        font-size: 15px;
+    }
+    .contact_form{
+        width: 71%;
+        top: 121%;
+    }
+}
+@media(min-width: 576px) and (max-width:767px){
+    .navbar-toggler span i{
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: #fff;
+    }
+
+    .navbar-light .navbar-nav .nav-link{
+        display: inline;
+        
+    }
+    .nav-item{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .banner_content{
+        margin:auto;
+        text-align: center;
+    }
+    .phone{
+        display: none;
+    }
+
+    .beast{
+        padding: 0;
+    }
+    .beast h1 {
+        text-align: center;   
+    }
+    .beast h4{
+        text-align: center;
+    }
+    .easy h4{
+        text-align: center;
+    }
+    .easy h1{
+        text-align: center;
+    }
+    .beast h1::before {
+        left: 42%;
+    }
+    .beast h1::after{
+        right: 42%;
+    }
+  
+    .easy h1::before{
+        left:41% 
+    }
+    .easy h1::after{
+        right:40%;
+    }
+    .btn_2{
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .btn_3{
+        margin-top: 20px;
+    }
+    .price_list_1{
+        margin-bottom: 20px;
+    }
+    .Price h1{
+        margin-top: 10px;
+    }
+    .Price h1::before{
+        left: 42%;
+        bottom: -17px;
+    }
+    .Price h1::after{
+        right: 42%;
+        bottom: -17px;
+    }
+    .contact_form{
+        width: 70%;
+        top: 122%;
+    }
+    .Pricing p{
+        font-size: 15px;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .navbar-toggler span i{
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: #fff;
+    }
+
+    .navbar-light .navbar-nav .nav-link{
+        display: inline;
+        
+    }
+    .nav-item{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .banner_content{
+        margin:auto;
+        text-align: center;
+    }
+    .phone{
+        display: none;
+    }
+    .btn_view{
+        margin-top: 20px;
+        margin-right: 19px;
+    }
+    .btn_2{
+        margin-bottom: 20px;
+    }
+    .btn_3{
+        margin-right: 18px;
+    }
+    .contact{
+        min-height: 78vh;
+    }
+    .contact_form{
+        width: 90%;
+        top: 98%;
+    }
+}
+@media(min-width:991px) and (max-width:1199px){
+    .contact{
+        min-height: 80vh;
+    }
+    .contact_form{
+        width: 90%;
+        top: 98%;
+    }
+    .phone img{
+        width: 100%;
+    }
+}
+@media(min-width:1200px) and (max-width:1500px){
+    .phone img{
+        width: 100%;
+    }
+    .contact{
+        min-height: 70vh;
+    }
+    .contact_form{
+        width: 80%;
+        top: 100%;
+    }
+}
